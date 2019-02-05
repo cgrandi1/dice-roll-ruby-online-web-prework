@@ -1,2 +1,2 @@
 def roll 
-  return
+  array = 
